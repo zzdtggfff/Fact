@@ -1,0 +1,4 @@
+aiogram
+aiohttp
+pillow
+deep-translator
